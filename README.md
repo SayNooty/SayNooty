@@ -23,16 +23,19 @@ My main goal is to **bring joy to players** through my creations. Every mod or d
 
 ## 🎮 My Projects
 
-- [Unlimited Enchantments](https://modrinth.com/datapack/unlimited-enchantments)
-- [Snowy Weather](https://modrinth.com/datapack/snowy-weather)
-- [I Editor](https://modrinth.com/datapack/i-editor)
-- [Convenient Achievements](https://modrinth.com/datapack/convenient-achievements)
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| Eater Grylls | You can eat anything you want. | 🟢 In Development |
-| Astraspace | Space exploration and solar systems | 🟡 Planned |
-| Dialogs | Port of dialog window from version 1.21.6 to older ones | 🔴 On Hold |
+| Project | Description | Type |
+|---------|-------------|------|
+| [Convenient Achievements](https://modrinth.com/datapack/convenient-achievements) | Adds a lot of interesting achievements to the game, for which you may even have to explore the whole world. | Datapack |
+| [Unlimited Enchantments](https://modrinth.com/datapack/unlimited-enchantments) | Enchantments now have no limit on levels! | Datapack |
+| [Snowy Weather](https://modrinth.com/datapack/snowy-weather) | In all biomes of the world, the earth is covered with snow, and the water freezes! | Datapack |
+| [I Editor](https://modrinth.com/datapack/i-editor) | Edit the various elements of the item. | Datapack |
+| [Craore](https://modrinth.com/datapack/craore) | Crafting ores from a specific type of stone and the ore itself | Datapack |
+| [Mosaics](https://modrinth.com/mod/mosaics) | Adds a variation of mosaics for other types of planks | Mod |
+| [Wooden slab and stairs](https://modrinth.com/mod/wooden-slab-and-stairs) | Mod adds slab and stairs made of wood to the game | Mod |
+| [Limited Enchantments](https://modrinth.com/datapack/limited-enchantments) | Enchantments are now limited to one level! | Datapack |
+| [Pale World](https://modrinth.com/datapack/pale-world) | The Pale Garden has become not just a biome in the world, but has enslaved all other biomes, making them pale too. | Datapack |
+| [Text Colored](https://modrinth.com/resourcepack/text-colored) | It changes the plain white text to color, where it is missing. | Resource Pack |
+| [PVP NootyPack](https://modrinth.com/resourcepack/pvpnootypack) | Resource pack for pvp battles from the author of SayNooty | Resource Pack |
 
 ---
 
